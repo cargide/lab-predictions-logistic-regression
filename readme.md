@@ -14,3 +14,4 @@ In order to optimize our inventory, we would like to know which films will be re
 4. Analyze extracted features and transform them. You may need to encode some categorical variables, or scale numerical variables.
 5. Create a logistic regression model to predict this variable from the cleaned data.
 6. Evaluate the results.
+BONUS 7. Evaluate the results for June 2005
